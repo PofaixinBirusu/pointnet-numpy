@@ -1,0 +1,477 @@
+C:\Users\asus\AppData\Local\Programs\Python\Python36\python.exe D:/Desktop/3D点云学习/pointnet-np/train_seg_bn.py
+694 10
+175 7
+process: 10 / 10   loss: 3.581  cur acc: 0.489  acc: 0.410
+test...
+test process: 7 / 7   loss: 4.564  cur acc: 0.238  acc: 0.280
+epoch: 1  acc: 0.280
+max acc: 0.280, save...
+save finish !
+process: 10 / 10   loss: 1.957  cur acc: 0.633  acc: 0.634
+test...
+test process: 7 / 7   loss: 3.017  cur acc: 0.446  acc: 0.603
+epoch: 2  acc: 0.603
+max acc: 0.603, save...
+save finish !
+process: 10 / 10   loss: 1.294  cur acc: 0.713  acc: 0.708
+test...
+test process: 7 / 7   loss: 2.553  cur acc: 0.635  acc: 0.639
+epoch: 3  acc: 0.639
+max acc: 0.639, save...
+save finish !
+process: 10 / 10   loss: 1.217  cur acc: 0.694  acc: 0.737
+test...
+test process: 7 / 7   loss: 2.349  cur acc: 0.563  acc: 0.776
+epoch: 4  acc: 0.776
+max acc: 0.776, save...
+save finish !
+process: 10 / 10   loss: 0.770  cur acc: 0.777  acc: 0.787
+test...
+test process: 7 / 7   loss: 1.978  cur acc: 0.572  acc: 0.761
+epoch: 5  acc: 0.761
+process: 10 / 10   loss: 0.869  cur acc: 0.783  acc: 0.788
+test...
+test process: 7 / 7   loss: 1.866  cur acc: 0.605  acc: 0.780
+epoch: 6  acc: 0.780
+max acc: 0.780, save...
+save finish !
+process: 10 / 10   loss: 0.537  cur acc: 0.831  acc: 0.801
+test...
+test process: 7 / 7   loss: 1.783  cur acc: 0.513  acc: 0.750
+epoch: 7  acc: 0.750
+process: 10 / 10   loss: 0.676  cur acc: 0.813  acc: 0.794
+test...
+test process: 7 / 7   loss: 1.685  cur acc: 0.605  acc: 0.788
+epoch: 8  acc: 0.788
+max acc: 0.788, save...
+save finish !
+process: 10 / 10   loss: 0.616  cur acc: 0.814  acc: 0.804
+test...
+test process: 7 / 7   loss: 1.611  cur acc: 0.517  acc: 0.762
+epoch: 9  acc: 0.762
+process: 10 / 10   loss: 0.585  cur acc: 0.825  acc: 0.799
+test...
+test process: 7 / 7   loss: 1.511  cur acc: 0.604  acc: 0.791
+epoch: 10  acc: 0.791
+max acc: 0.791, save...
+save finish !
+process: 10 / 10   loss: 0.642  cur acc: 0.795  acc: 0.808
+test...
+test process: 7 / 7   loss: 1.449  cur acc: 0.546  acc: 0.772
+epoch: 11  acc: 0.772
+process: 10 / 10   loss: 0.527  cur acc: 0.824  acc: 0.805
+test...
+test process: 7 / 7   loss: 1.381  cur acc: 0.637  acc: 0.805
+epoch: 12  acc: 0.805
+max acc: 0.805, save...
+save finish !
+process: 10 / 10   loss: 0.570  cur acc: 0.795  acc: 0.813
+test...
+test process: 7 / 7   loss: 1.341  cur acc: 0.581  acc: 0.788
+epoch: 13  acc: 0.788
+process: 10 / 10   loss: 0.506  cur acc: 0.822  acc: 0.810
+test...
+test process: 7 / 7   loss: 1.298  cur acc: 0.642  acc: 0.806
+epoch: 14  acc: 0.806
+max acc: 0.806, save...
+save finish !
+process: 10 / 10   loss: 0.667  cur acc: 0.788  acc: 0.814
+test...
+test process: 7 / 7   loss: 1.272  cur acc: 0.596  acc: 0.793
+epoch: 15  acc: 0.793
+process: 10 / 10   loss: 0.713  cur acc: 0.745  acc: 0.813
+test...
+test process: 7 / 7   loss: 1.241  cur acc: 0.622  acc: 0.801
+epoch: 16  acc: 0.801
+process: 10 / 10   loss: 0.538  cur acc: 0.818  acc: 0.823
+test...
+test process: 7 / 7   loss: 1.243  cur acc: 0.574  acc: 0.786
+epoch: 17  acc: 0.786
+process: 10 / 10   loss: 0.513  cur acc: 0.827  acc: 0.816
+test...
+test process: 7 / 7   loss: 1.202  cur acc: 0.649  acc: 0.811
+epoch: 18  acc: 0.811
+max acc: 0.811, save...
+save finish !
+process: 10 / 10   loss: 0.476  cur acc: 0.834  acc: 0.818
+test...
+test process: 7 / 7   loss: 1.189  cur acc: 0.625  acc: 0.803
+epoch: 19  acc: 0.803
+process: 10 / 10   loss: 0.612  cur acc: 0.798  acc: 0.826
+test...
+test process: 7 / 7   loss: 1.171  cur acc: 0.640  acc: 0.811
+epoch: 20  acc: 0.811
+max acc: 0.811, save...
+save finish !
+process: 10 / 10   loss: 0.484  cur acc: 0.838  acc: 0.823
+test...
+test process: 7 / 7   loss: 1.157  cur acc: 0.628  acc: 0.809
+epoch: 21  acc: 0.809
+process: 10 / 10   loss: 0.588  cur acc: 0.807  acc: 0.830
+test...
+test process: 7 / 7   loss: 1.134  cur acc: 0.643  acc: 0.812
+epoch: 22  acc: 0.812
+max acc: 0.812, save...
+save finish !
+process: 10 / 10   loss: 0.454  cur acc: 0.850  acc: 0.827
+test...
+test process: 7 / 7   loss: 1.126  cur acc: 0.648  acc: 0.816
+epoch: 23  acc: 0.816
+max acc: 0.816, save...
+save finish !
+process: 10 / 10   loss: 0.486  cur acc: 0.834  acc: 0.828
+test...
+test process: 7 / 7   loss: 1.116  cur acc: 0.636  acc: 0.810
+epoch: 24  acc: 0.810
+process: 10 / 10   loss: 0.491  cur acc: 0.821  acc: 0.829
+test...
+test process: 7 / 7   loss: 1.102  cur acc: 0.654  acc: 0.814
+epoch: 25  acc: 0.814
+process: 10 / 10   loss: 0.474  cur acc: 0.831  acc: 0.835
+test...
+test process: 7 / 7   loss: 1.091  cur acc: 0.643  acc: 0.815
+epoch: 26  acc: 0.815
+process: 10 / 10   loss: 0.580  cur acc: 0.815  acc: 0.831
+test...
+test process: 7 / 7   loss: 1.071  cur acc: 0.658  acc: 0.820
+epoch: 27  acc: 0.820
+max acc: 0.820, save...
+save finish !
+process: 10 / 10   loss: 0.482  cur acc: 0.832  acc: 0.833
+test...
+test process: 7 / 7   loss: 1.064  cur acc: 0.659  acc: 0.821
+epoch: 28  acc: 0.821
+max acc: 0.821, save...
+save finish !
+process: 10 / 10   loss: 0.361  cur acc: 0.868  acc: 0.832
+test...
+test process: 7 / 7   loss: 1.058  cur acc: 0.643  acc: 0.817
+epoch: 29  acc: 0.817
+process: 10 / 10   loss: 0.429  cur acc: 0.845  acc: 0.835
+test...
+test process: 7 / 7   loss: 1.035  cur acc: 0.663  acc: 0.820
+epoch: 30  acc: 0.820
+process: 10 / 10   loss: 0.446  cur acc: 0.833  acc: 0.836
+test...
+test process: 7 / 7   loss: 1.026  cur acc: 0.664  acc: 0.821
+epoch: 31  acc: 0.821
+process: 10 / 10   loss: 0.474  cur acc: 0.829  acc: 0.838
+test...
+test process: 7 / 7   loss: 1.021  cur acc: 0.654  acc: 0.821
+epoch: 32  acc: 0.821
+max acc: 0.821, save...
+save finish !
+process: 10 / 10   loss: 0.501  cur acc: 0.817  acc: 0.835
+test...
+test process: 7 / 7   loss: 1.015  cur acc: 0.652  acc: 0.820
+epoch: 33  acc: 0.820
+process: 10 / 10   loss: 0.467  cur acc: 0.836  acc: 0.837
+test...
+test process: 7 / 7   loss: 0.992  cur acc: 0.669  acc: 0.820
+epoch: 34  acc: 0.820
+process: 10 / 10   loss: 0.435  cur acc: 0.844  acc: 0.838
+test...
+test process: 7 / 7   loss: 0.995  cur acc: 0.654  acc: 0.820
+epoch: 35  acc: 0.820
+process: 10 / 10   loss: 0.476  cur acc: 0.829  acc: 0.839
+test...
+test process: 7 / 7   loss: 0.974  cur acc: 0.671  acc: 0.820
+epoch: 36  acc: 0.820
+process: 10 / 10   loss: 0.426  cur acc: 0.840  acc: 0.838
+test...
+test process: 7 / 7   loss: 0.975  cur acc: 0.665  acc: 0.822
+epoch: 37  acc: 0.822
+max acc: 0.822, save...
+save finish !
+process: 10 / 10   loss: 0.394  cur acc: 0.856  acc: 0.840
+test...
+test process: 7 / 7   loss: 0.964  cur acc: 0.666  acc: 0.819
+epoch: 38  acc: 0.819
+process: 10 / 10   loss: 0.460  cur acc: 0.826  acc: 0.839
+test...
+test process: 7 / 7   loss: 0.952  cur acc: 0.670  acc: 0.823
+epoch: 39  acc: 0.823
+max acc: 0.823, save...
+save finish !
+process: 10 / 10   loss: 0.413  cur acc: 0.842  acc: 0.841
+test...
+test process: 7 / 7   loss: 0.943  cur acc: 0.674  acc: 0.823
+epoch: 40  acc: 0.823
+process: 10 / 10   loss: 0.399  cur acc: 0.852  acc: 0.843
+test...
+test process: 7 / 7   loss: 0.953  cur acc: 0.658  acc: 0.820
+epoch: 41  acc: 0.820
+process: 10 / 10   loss: 0.368  cur acc: 0.861  acc: 0.843
+test...
+test process: 7 / 7   loss: 0.925  cur acc: 0.677  acc: 0.825
+epoch: 42  acc: 0.825
+max acc: 0.825, save...
+save finish !
+process: 10 / 10   loss: 0.430  cur acc: 0.848  acc: 0.844
+test...
+test process: 7 / 7   loss: 0.938  cur acc: 0.665  acc: 0.821
+epoch: 43  acc: 0.821
+process: 10 / 10   loss: 0.399  cur acc: 0.854  acc: 0.844
+test...
+test process: 7 / 7   loss: 0.916  cur acc: 0.677  acc: 0.825
+epoch: 44  acc: 0.825
+process: 10 / 10   loss: 0.431  cur acc: 0.847  acc: 0.842
+test...
+test process: 7 / 7   loss: 0.919  cur acc: 0.676  acc: 0.825
+epoch: 45  acc: 0.825
+max acc: 0.825, save...
+save finish !
+process: 10 / 10   loss: 0.459  cur acc: 0.838  acc: 0.841
+test...
+test process: 7 / 7   loss: 0.903  cur acc: 0.680  acc: 0.826
+epoch: 46  acc: 0.826
+max acc: 0.826, save...
+save finish !
+process: 10 / 10   loss: 0.473  cur acc: 0.822  acc: 0.844
+test...
+test process: 7 / 7   loss: 0.904  cur acc: 0.678  acc: 0.816
+epoch: 47  acc: 0.816
+process: 10 / 10   loss: 0.462  cur acc: 0.818  acc: 0.845
+test...
+test process: 7 / 7   loss: 0.891  cur acc: 0.683  acc: 0.827
+epoch: 48  acc: 0.827
+max acc: 0.827, save...
+save finish !
+process: 10 / 10   loss: 0.424  cur acc: 0.851  acc: 0.845
+test...
+test process: 7 / 7   loss: 0.888  cur acc: 0.680  acc: 0.819
+epoch: 49  acc: 0.819
+process: 10 / 10   loss: 0.369  cur acc: 0.861  acc: 0.846
+test...
+test process: 7 / 7   loss: 0.880  cur acc: 0.686  acc: 0.827
+epoch: 50  acc: 0.827
+process: 10 / 10   loss: 0.343  cur acc: 0.864  acc: 0.845
+test...
+test process: 7 / 7   loss: 0.883  cur acc: 0.682  acc: 0.821
+epoch: 51  acc: 0.821
+process: 10 / 10   loss: 0.376  cur acc: 0.854  acc: 0.849
+test...
+test process: 7 / 7   loss: 0.875  cur acc: 0.686  acc: 0.827
+epoch: 52  acc: 0.827
+process: 10 / 10   loss: 0.406  cur acc: 0.849  acc: 0.849
+test...
+test process: 7 / 7   loss: 0.882  cur acc: 0.681  acc: 0.826
+epoch: 53  acc: 0.826
+process: 10 / 10   loss: 0.403  cur acc: 0.846  acc: 0.848
+test...
+test process: 7 / 7   loss: 0.862  cur acc: 0.689  acc: 0.828
+epoch: 54  acc: 0.828
+max acc: 0.828, save...
+save finish !
+process: 10 / 10   loss: 0.396  cur acc: 0.852  acc: 0.847
+test...
+test process: 7 / 7   loss: 0.865  cur acc: 0.689  acc: 0.830
+epoch: 55  acc: 0.830
+max acc: 0.830, save...
+save finish !
+process: 10 / 10   loss: 0.417  cur acc: 0.848  acc: 0.848
+test...
+test process: 7 / 7   loss: 0.859  cur acc: 0.691  acc: 0.826
+epoch: 56  acc: 0.826
+process: 10 / 10   loss: 0.363  cur acc: 0.858  acc: 0.847
+test...
+test process: 7 / 7   loss: 0.849  cur acc: 0.691  acc: 0.829
+epoch: 57  acc: 0.829
+process: 10 / 10   loss: 0.450  cur acc: 0.829  acc: 0.851
+test...
+test process: 7 / 7   loss: 0.850  cur acc: 0.692  acc: 0.829
+epoch: 58  acc: 0.829
+process: 10 / 10   loss: 0.387  cur acc: 0.851  acc: 0.851
+test...
+test process: 7 / 7   loss: 0.849  cur acc: 0.692  acc: 0.827
+epoch: 59  acc: 0.827
+process: 10 / 10   loss: 0.396  cur acc: 0.848  acc: 0.852
+test...
+test process: 7 / 7   loss: 0.838  cur acc: 0.689  acc: 0.824
+epoch: 60  acc: 0.824
+process: 10 / 10   loss: 0.390  cur acc: 0.858  acc: 0.850
+test...
+test process: 7 / 7   loss: 0.846  cur acc: 0.689  acc: 0.829
+epoch: 61  acc: 0.829
+process: 10 / 10   loss: 0.389  cur acc: 0.867  acc: 0.851
+test...
+test process: 7 / 7   loss: 0.827  cur acc: 0.701  acc: 0.828
+epoch: 62  acc: 0.828
+process: 10 / 10   loss: 0.355  cur acc: 0.868  acc: 0.853
+test...
+test process: 7 / 7   loss: 0.831  cur acc: 0.699  acc: 0.832
+epoch: 63  acc: 0.832
+max acc: 0.832, save...
+save finish !
+process: 10 / 10   loss: 0.406  cur acc: 0.845  acc: 0.854
+test...
+test process: 7 / 7   loss: 0.834  cur acc: 0.697  acc: 0.831
+epoch: 64  acc: 0.831
+process: 10 / 10   loss: 0.305  cur acc: 0.883  acc: 0.854
+test...
+test process: 7 / 7   loss: 0.819  cur acc: 0.704  acc: 0.833
+epoch: 65  acc: 0.833
+max acc: 0.833, save...
+save finish !
+process: 10 / 10   loss: 0.394  cur acc: 0.852  acc: 0.853
+test...
+test process: 7 / 7   loss: 0.828  cur acc: 0.699  acc: 0.831
+epoch: 66  acc: 0.831
+process: 10 / 10   loss: 0.384  cur acc: 0.857  acc: 0.856
+test...
+test process: 7 / 7   loss: 0.818  cur acc: 0.703  acc: 0.831
+epoch: 67  acc: 0.831
+process: 10 / 10   loss: 0.386  cur acc: 0.849  acc: 0.852
+test...
+test process: 7 / 7   loss: 0.815  cur acc: 0.705  acc: 0.833
+epoch: 68  acc: 0.833
+max acc: 0.833, save...
+save finish !
+process: 10 / 10   loss: 0.329  cur acc: 0.880  acc: 0.852
+test...
+test process: 7 / 7   loss: 0.813  cur acc: 0.705  acc: 0.833
+epoch: 69  acc: 0.833
+max acc: 0.833, save...
+save finish !
+process: 10 / 10   loss: 0.411  cur acc: 0.848  acc: 0.855
+test...
+test process: 7 / 7   loss: 0.810  cur acc: 0.706  acc: 0.831
+epoch: 70  acc: 0.831
+process: 10 / 10   loss: 0.393  cur acc: 0.841  acc: 0.856
+test...
+test process: 7 / 7   loss: 0.802  cur acc: 0.708  acc: 0.833
+epoch: 71  acc: 0.833
+process: 10 / 10   loss: 0.358  cur acc: 0.866  acc: 0.852
+test...
+test process: 7 / 7   loss: 0.803  cur acc: 0.708  acc: 0.833
+epoch: 72  acc: 0.833
+process: 10 / 10   loss: 0.362  cur acc: 0.853  acc: 0.858
+test...
+test process: 7 / 7   loss: 0.801  cur acc: 0.709  acc: 0.833
+epoch: 73  acc: 0.833
+process: 10 / 10   loss: 0.332  cur acc: 0.870  acc: 0.855
+test...
+test process: 7 / 7   loss: 0.801  cur acc: 0.709  acc: 0.832
+epoch: 74  acc: 0.832
+process: 10 / 10   loss: 0.367  cur acc: 0.858  acc: 0.855
+test...
+test process: 7 / 7   loss: 0.792  cur acc: 0.712  acc: 0.834
+epoch: 75  acc: 0.834
+max acc: 0.834, save...
+save finish !
+process: 10 / 10   loss: 0.352  cur acc: 0.868  acc: 0.856
+test...
+test process: 7 / 7   loss: 0.799  cur acc: 0.708  acc: 0.829
+epoch: 76  acc: 0.829
+process: 10 / 10   loss: 0.378  cur acc: 0.854  acc: 0.856
+test...
+test process: 7 / 7   loss: 0.789  cur acc: 0.714  acc: 0.833
+epoch: 77  acc: 0.833
+process: 10 / 10   loss: 0.418  cur acc: 0.834  acc: 0.857
+test...
+test process: 7 / 7   loss: 0.792  cur acc: 0.711  acc: 0.833
+epoch: 78  acc: 0.833
+process: 10 / 10   loss: 0.408  cur acc: 0.855  acc: 0.855
+test...
+test process: 7 / 7   loss: 0.779  cur acc: 0.717  acc: 0.829
+epoch: 79  acc: 0.829
+process: 10 / 10   loss: 0.413  cur acc: 0.846  acc: 0.856
+test...
+test process: 7 / 7   loss: 0.789  cur acc: 0.709  acc: 0.834
+epoch: 80  acc: 0.834
+process: 10 / 10   loss: 0.327  cur acc: 0.868  acc: 0.858
+test...
+test process: 7 / 7   loss: 0.778  cur acc: 0.717  acc: 0.834
+epoch: 81  acc: 0.834
+max acc: 0.834, save...
+save finish !
+process: 10 / 10   loss: 0.404  cur acc: 0.848  acc: 0.856
+test...
+test process: 7 / 7   loss: 0.778  cur acc: 0.716  acc: 0.830
+epoch: 82  acc: 0.830
+process: 10 / 10   loss: 0.329  cur acc: 0.878  acc: 0.861
+test...
+test process: 7 / 7   loss: 0.776  cur acc: 0.717  acc: 0.833
+epoch: 83  acc: 0.833
+process: 10 / 10   loss: 0.412  cur acc: 0.844  acc: 0.857
+test...
+test process: 7 / 7   loss: 0.773  cur acc: 0.718  acc: 0.835
+epoch: 84  acc: 0.835
+max acc: 0.835, save...
+save finish !
+process: 10 / 10   loss: 0.398  cur acc: 0.853  acc: 0.859
+test...
+test process: 7 / 7   loss: 0.771  cur acc: 0.720  acc: 0.835
+epoch: 85  acc: 0.835
+process: 10 / 10   loss: 0.333  cur acc: 0.869  acc: 0.859
+test...
+test process: 7 / 7   loss: 0.767  cur acc: 0.720  acc: 0.828
+epoch: 86  acc: 0.828
+process: 10 / 10   loss: 0.338  cur acc: 0.878  acc: 0.857
+test...
+test process: 7 / 7   loss: 0.767  cur acc: 0.716  acc: 0.834
+epoch: 87  acc: 0.834
+process: 10 / 10   loss: 0.367  cur acc: 0.866  acc: 0.856
+test...
+test process: 7 / 7   loss: 0.763  cur acc: 0.718  acc: 0.830
+epoch: 88  acc: 0.830
+process: 10 / 10   loss: 0.372  cur acc: 0.861  acc: 0.861
+test...
+test process: 7 / 7   loss: 0.760  cur acc: 0.720  acc: 0.835
+epoch: 89  acc: 0.835
+max acc: 0.835, save...
+save finish !
+process: 10 / 10   loss: 0.331  cur acc: 0.864  acc: 0.859
+test...
+test process: 7 / 7   loss: 0.766  cur acc: 0.717  acc: 0.836
+epoch: 90  acc: 0.836
+max acc: 0.836, save...
+save finish !
+process: 10 / 10   loss: 0.287  cur acc: 0.894  acc: 0.858
+test...
+test process: 7 / 7   loss: 0.756  cur acc: 0.723  acc: 0.836
+epoch: 91  acc: 0.836
+process: 10 / 10   loss: 0.328  cur acc: 0.874  acc: 0.862
+test...
+test process: 7 / 7   loss: 0.766  cur acc: 0.717  acc: 0.836
+epoch: 92  acc: 0.836
+max acc: 0.836, save...
+save finish !
+process: 10 / 10   loss: 0.383  cur acc: 0.848  acc: 0.860
+test...
+test process: 7 / 7   loss: 0.758  cur acc: 0.722  acc: 0.837
+epoch: 93  acc: 0.837
+max acc: 0.837, save...
+save finish !
+process: 10 / 10   loss: 0.356  cur acc: 0.866  acc: 0.861
+test...
+test process: 7 / 7   loss: 0.758  cur acc: 0.720  acc: 0.831
+epoch: 94  acc: 0.831
+process: 10 / 10   loss: 0.323  cur acc: 0.868  acc: 0.861
+test...
+test process: 7 / 7   loss: 0.759  cur acc: 0.718  acc: 0.836
+epoch: 95  acc: 0.836
+process: 10 / 10   loss: 0.339  cur acc: 0.867  acc: 0.861
+test...
+test process: 7 / 7   loss: 0.754  cur acc: 0.721  acc: 0.835
+epoch: 96  acc: 0.835
+process: 10 / 10   loss: 0.360  cur acc: 0.862  acc: 0.860
+test...
+test process: 7 / 7   loss: 0.756  cur acc: 0.719  acc: 0.835
+epoch: 97  acc: 0.835
+process: 10 / 10   loss: 0.373  cur acc: 0.860  acc: 0.860
+test...
+test process: 7 / 7   loss: 0.754  cur acc: 0.721  acc: 0.837
+epoch: 98  acc: 0.837
+max acc: 0.837, save...
+save finish !
+process: 10 / 10   loss: 0.442  cur acc: 0.837  acc: 0.861
+test...
+test process: 7 / 7   loss: 0.748  cur acc: 0.720  acc: 0.834
+epoch: 99  acc: 0.834
+process: 10 / 10   loss: 0.368  cur acc: 0.858  acc: 0.860
+test...
+test process: 7 / 7   loss: 0.747  cur acc: 0.722  acc: 0.833
+epoch: 100  acc: 0.833
+
+Process finished with exit code 0
