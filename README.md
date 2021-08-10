@@ -1,1 +1,1 @@
-"# pointnet-numpy" 
+使用numpy实现的PointNet
